@@ -1,10 +1,9 @@
 print("Hello World!")
-  * Program reponds with Hello World!. It errored with a capital P. I wonder why*
-      marin stefan daniel on Jul 20, 2020
-"print" is a built-in function . already defined with lower case . if u use capital P python does not recognize it as the built in function for printing and 
-instead it thinks you want to to something on purpose ...like creating a new variable or call another function and it is not defined yet...the same is for all 
-functions ...like len() or range() ....etc . they are already pre-defined...meaning someone already defined them as they are written...with lowercase.and unless 
-you type exactly letter for letter ...python does not know you want to access that function ... it thinks you are trying to do something else.later when you'll 
+"Program reponds with Hello World!. It errored with a capital P. I wonder why"
+"""marin stefan daniel on Jul 20, 2020"print" is a built-in function . already defined with lower case . if u use capital P python does not recognize it as the built in 
+function for printing and instead it thinks you want to to something on purpose ...like creating a new variable or call another function and it is not defined yet...the 
+same is for all functions ...like len() or range() ....etc . they are already pre-defined...meaning someone already defined them as they are written...with lowercase.and 
+unless you type exactly letter for letter ...python does not know you want to access that function ... it thinks you are trying to do something else.later when you'll 
 learn to build your own functions for whatever you may need you'll see that you need to name them ,and some names are unavailable ...like print() ...because it is 
 already in use.you can however build your own function called Print ...which may do whatever you want it to do ... and then you will see the difference
-https://teamtreehouse.com/community/what-he-difference-between-upper-and-lower-case-p-why-does-it-have-to-be-upper-or-lower-i-dont-understand-why-exactly
+https://teamtreehouse.com/community/what-he-difference-between-upper-and-lower-case-p-why-does-it-have-to-be-upper-or-lower-i-dont-understand-why-exactly"""
